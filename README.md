@@ -8,9 +8,7 @@ This project demonstrates how to create a personal code assistant using a local 
 - [Setup](#setup)
   - [Environment](#environment)
   - [Installing Dependencies](#installing-dependencies)
-- [Customizing and Testing the Model](#customizing-and-testing-the-model)
-- [Building and Running the Application](#building-and-running-the-application)
-- [References](#references)
+
 
 ---
 
